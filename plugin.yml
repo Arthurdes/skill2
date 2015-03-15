@@ -1,0 +1,9 @@
+name: WaterWalk
+main: src.art.bukkit.skill.WaterWalk
+version: alpha0.1
+author: Arthurdes
+description: walk on water
+permissions:
+  art.test:
+    description: non
+    default: false
